@@ -1,0 +1,36 @@
+body {
+  background: #eaedf0;
+}
+
+.container tr {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  list-style: none;
+  background: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.con {
+  display: flex;
+  margin: 20px;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.con .cls {
+  width: 200px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+.con p {
+  margin: 50px;
+}
+
+.con img {
+  width: 150px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
